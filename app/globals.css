@@ -25,3 +25,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.img-size{
+  @apply w-[86px] h-full sm:w-[265px]
+}
